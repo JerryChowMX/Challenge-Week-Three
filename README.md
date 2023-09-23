@@ -35,3 +35,7 @@ The following instructions have been completed as per the requirements:
 
 - This password generator was created as a demonstration project.
 - It utilizes HTML, CSS, and JavaScript.
+
+# Proof of Work
+
+![image](https://github.com/JerryChowMX/Challenge-Week-Three/assets/142858979/8a31744a-1a68-4515-81ea-1b54bd587581)
